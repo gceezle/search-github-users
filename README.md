@@ -8,5 +8,5 @@ A simple angular2 app that search for github users using there username and can 
 1. Run `npm start` or `ng serve` to start the server on http://localhost:4200/ or ng serve --port port no for different port 
 
 ### Project URL ###
-https://seach-github.firebaseapp.com/
+https://search-github.firebaseapp.com/
 
